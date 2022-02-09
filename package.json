@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/shun28n/typescript-for-javascript#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
 }
